@@ -1,0 +1,3 @@
+cp -v * /ws/exp1/exp1
+cp -v * /ws/exp/exp1
+cp -v * /ws/exp/prod  
